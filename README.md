@@ -1,16 +1,23 @@
-## Hi there 👋
+#Hi there, I'm Marcus! 👋
+I'm a computer science student learning all about the field and excited to build applications and programs to help solve real world problems!
+## 🛠️ Technologies & Tools
 
-<!--
-**yuhdotpng/yuhdotpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages**: JavaScript, Python, HTML, CSS
 
-Here are some ideas to get you started:
+- **Currently Learning**: React, Node.js, Rest API's, SQL
+  
+- **Tools**: VS Code, Git, GitHub
+  
+##🌱 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Creating a personal portfolio
+
+- Learning more about Python and SQL through my Programming for Everyone II course
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Marcus McIntire] https://www.linkedin.com/in/marcus-mcintire/
+
+- **Email**: mcintirem11@gmail.com
+
+## 🚀 Featured Projects
