@@ -1,4 +1,4 @@
-#Hi there, I'm Marcus! 👋
+# Hi there, I'm Marcus! 👋
 I'm a computer science student learning all about the field and excited to build applications and programs to help solve real world problems!
 ## 🛠️ Technologies & Tools
 
@@ -8,7 +8,7 @@ I'm a computer science student learning all about the field and excited to build
   
 - **Tools**: VS Code, Git, GitHub
   
-##🌱 What I'm Currently Working On
+## 🌱 What I'm Currently Working On
 
 - Creating a personal portfolio
 
