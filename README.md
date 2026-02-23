@@ -16,7 +16,7 @@ I'm a computer science student learning all about the field and excited to build
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Marcus McIntire] https://www.linkedin.com/in/marcus-mcintire/
+- **LinkedIn**: [Marcus McIntire]https://www.linkedin.com/in/marcus-mcintire/
 
 - **Email**: mcintirem11@gmail.com
 
